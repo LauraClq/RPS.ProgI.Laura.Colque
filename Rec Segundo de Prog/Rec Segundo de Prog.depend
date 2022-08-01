@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659356902 source:c:\users\laura\downloads\ejercicios-prog_lab-1-master\rec segundo de prog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
